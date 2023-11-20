@@ -28,8 +28,10 @@ Here are some ideas to get you started:
 ```I have great interest in this specific technology field where i want to create a career and contribute.```
 
 
->>> 
+--- 
+
 ### Some Tools & Languages I Have Learned And Used So Far Are 
+
 --- 
 <p align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"alt="vscode" width="45" height="45"/>
@@ -50,7 +52,15 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdasifahamed&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+--- 
 
+### Some Apps  & App Concept  I have Developed While Learning
+
+--- 
 -  :camera:  A Simple Photo Editing App Using  Django 
-- 
+- :file_folder: A Simple Student Management System Using Django
+- :convenience_store: A E commerce Frontend Using React and Public Store Api
+- :ledger: An Ethereum Block Explorer For Accounts, Contracts, & NFT Using React & Alchemy Node Provider With Its SDK.
+- :gift: A Decentralized Lottery App Concept Using Solidity.
+- :department_store: A Decentralized  Digital Product Buy And Sell Concept In Solidity.
 
