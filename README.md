@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 >>> 
-### Some Tools  & Languages I Have Learned So Far  Are 
+### Some Tools & Languages I Have Learned And Used So Far Are 
 --- 
 <p align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"alt="vscode" width="45" height="45"/>
@@ -45,3 +45,6 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 </p>
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdasifahamed&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
