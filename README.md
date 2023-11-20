@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 ### Some Apps  & App Concept  I have Developed While Learning
 
 --- 
--  :camera:  A Simple Photo Editing App Using  Django 
+- :camera:  A Simple Photo Editing App Using Django 
 - :file_folder: A Simple Student Management System Using Django
-- :convenience_store: A E commerce Frontend Using React and Public Store Api
+- :convenience_store: An E-commerce Front-End Using React and Public Store Api
 - :ledger: An Ethereum Block Explorer For Accounts, Contracts, & NFT Using React & Alchemy Node Provider With Its SDK.
 - :gift: A Decentralized Lottery App Concept Using Solidity.
 - :department_store: A Decentralized  Digital Product Buy And Sell Concept In Solidity.
