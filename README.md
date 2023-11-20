@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **mdasifahamed/mdasifahamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me 
+
+
+- 🧔‍♂️ Hello, I’m Md Asif Ahamed 
+- 🖥 I am a tech enthusiast.
+
+```From my personal interest i have started learning how the  modern technology works example can be given such as Web, Mobile Apps, Web apps, Database and API Since 2022 ```
+  
+- 🤔 I’m currently learning Blockchain Technology. More Precisely The Ethereum Blockchain
+
+```I have great interest in this specific technology field where i want to create a career and contribute.```
+
+
+>>> 
+### Some Tools  & Languages I Have Learned So Far  Are 
+--- 
 <p align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"alt="vscode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="django" width="45" height="45"/>
