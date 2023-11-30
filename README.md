@@ -63,4 +63,5 @@ Here are some ideas to get you started:
 - :ledger: An Ethereum Block Explorer For Accounts, Contracts, & NFT Using React & Alchemy Node Provider With Its SDK.
 - :gift: A Decentralized Lottery App Concept Using Solidity.
 - :department_store: A Decentralized  Digital Product Buy And Sell Concept In Solidity.
+- :moneybag: A Arbiter Free Escrow Dapp Using Smart Contrats
 
